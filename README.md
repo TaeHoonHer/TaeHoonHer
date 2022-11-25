@@ -44,19 +44,11 @@
 - 팀 (목적조직)
 
 ## 수상경력
-- 한림대학교 창업아이디어 공모전 대상[1위] - 2021
-- 한림대학교 창업아이디어 공모전 금상[1위] - 2022
+- 한림대학교 창업아이디어 경진대회 대상[1위] - 2021
+- 한림대학교 창업아이디어 경진대회 금상[1위] - 2022
 
-
-<!--
-**TaeHoonHer/TaeHoonHer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 도움이 된 강의
+> Udemy
+> - 안드로이드 앱개발 부트캠프
+> - Android Architecture Masterclass
+> - Deep Learning과 자연어처리의 모든 것
