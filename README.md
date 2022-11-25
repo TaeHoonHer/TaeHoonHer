@@ -41,7 +41,7 @@
 - Figma
 - Photoshop
 
-### etc
+### other
 - 대학생 연합 (학습보조 App 프로젝트 참여)
 - 디자인 협업 (Figma)
 - 버전관리 (Git / Gitlab)
