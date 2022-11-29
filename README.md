@@ -47,8 +47,8 @@
 - Android Studio에서 kotlin을 활용하여 내부 기능 구현
 
 ### 라즈베리 파이를 활용한 주차장 시스템
-> - Python
-> 
+> - Python, V2 Camera
+- 모의 주차장 제작, 번호판 인식하는 프로그램 개발
 
 ## Skills🌱
 ### Android
