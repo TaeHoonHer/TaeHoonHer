@@ -32,6 +32,24 @@
 |------|-----|--------|
 |March.2022.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 
+## Technical Project
+### BuyMe
+> - Kotlin, NodeJS, Figma
+> - 2022.07 ~ 2022.08
+- 본인이 만든 프로젝트, 촬영한 사진 등 나와 관련된 모든 것들을 팔 수 있는 서비스
+- Android Studio에서 Kotlin, Java 2가지 언어를 복수로 사용하여 개발
+- 개인 프로젝트로써 서버 구현, 개발, 디자인 스스로 구현
+
+### Amatuer
+> - Kotlin
+> - 2022.01 ~ 2023.01
+- 내가 가진 재능을 팔 수 있는 플랫폼
+- Android Studio에서 kotlin을 활용하여 내부 기능 구현
+
+### 라즈베리 파이를 활용한 주차장 시스템
+> - Python
+> 
+
 ## Skills🌱
 ### Android
 요구사항 분석 및 프로젝트 참여, 기술 개발을 할 수 있을 정도의 안드로이드 개발 능력을 가지고 있습니다
@@ -44,6 +62,7 @@
 
 ### other
 - 대학생 연합 (학습보조 App 프로젝트 참여)
+- 한림대학교 소프트웨어학부 학술 동아리 씨애랑 소프트웨어 전시회 참여(주제 : [딥러닝] 이미지 분류, 요금 예상, OTT별 콘텐츠 추천)
 - 디자인 협업 (Figma)
 - 버전관리 (Git / Gitlab)
 - 배포 (단계적배포)
