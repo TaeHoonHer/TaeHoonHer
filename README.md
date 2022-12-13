@@ -72,7 +72,7 @@
 ## Awards and Honors
 - 한림대학교 창업아이디어 경진대회 대상[1위] - 2021
 - 한림대학교 창업아이디어 경진대회 금상[1위] - 2022
-- 한림대학교 Triple S Challenge  본선 진출 - 2022
+- 한림대학교 Triple S Challenge 4 - 2022
 
 ## 도움이 된 강의
 > Udemy
