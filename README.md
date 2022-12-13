@@ -1,7 +1,7 @@
 ### HerTaeHoon
 
 ## CONTACT
-<img src= "https://user-images.githubusercontent.com/107015573/198946141-8c69218d-2cb7-482e-bd43-32882505f5b3.jpg" width="200" height="200">
+<img src= "https://user-images.githubusercontent.com/107015573/207423248-f599a0a5-b62b-49a2-8f52-c3b8f1870da9.png" width="200" height="220">
 
 |성명|허태훈|
 |------|-----|
