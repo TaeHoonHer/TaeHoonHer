@@ -50,6 +50,10 @@
 > - Python, V2 Camera
 - 모의 주차장 제작, 번호판 인식하는 프로그램 개발
 
+### PortMiS 해상물류 서비스 개선안
+> - Python, Android Studio
+- 기존 Port_MIS 서비스의 단점들을 보완한 AOS 개선버전 개발 및 챗봇 기능 
+
 ## Skills🌱
 ### Android
 요구사항 분석 및 프로젝트 참여, 기술 개발을 할 수 있을 정도의 안드로이드 개발 능력을 가지고 있습니다
