@@ -65,7 +65,7 @@
 - Photoshop
 
 ### Quartus altera
-made simple mips processor using verilog
+Made Simple Mips Processor using Verilog
 
 ### other
 - 대학생 연합 (학습보조 App 프로젝트 참여)
