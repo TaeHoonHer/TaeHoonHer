@@ -64,6 +64,9 @@
 - Figma
 - Photoshop
 
+### Quartus altera
+made simple mips processor using verilog
+
 ### other
 - 대학생 연합 (학습보조 App 프로젝트 참여)
 - 한림대학교 소프트웨어학부 학술 동아리 씨애랑 소프트웨어 전시회 참여(주제 : [딥러닝] 이미지 분류, 요금 예상, OTT별 콘텐츠 추천)
@@ -77,6 +80,7 @@
 - 한림대학교 창업아이디어 경진대회 대상[1위] - 2021
 - 한림대학교 창업아이디어 경진대회 금상[1위] - 2022
 - 한림대학교 Triple S Challenge 4위 - 2022
+- 성균관대학교 AI x Bookathon 
 
 ## 도움이 된 강의
 > Udemy
