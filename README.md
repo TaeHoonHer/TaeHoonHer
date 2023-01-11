@@ -91,7 +91,8 @@ Made Simple Mips Processor using Verilog
 >  - Kotlin을 활용한 AOS 앱 개발 공부
 
 > 그 외
-> 하이클리어 - 
+> 하이클리어
+> - 
 
 ## 도움이 된 강의
 > Udemy
