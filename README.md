@@ -82,6 +82,13 @@ Made Simple Mips Processor using Verilog
 - 한림대학교 Triple S Challenge 4위 - 2022
 - 성균관대학교 AI x Bookathon 
 
+## Club
+- 한림대학교 소프트웨어융합대학 학술동아리 NoName - 2020
+- 한림대학교 소프트웨어융합대학 학술동아리 씨애랑 텐서팀 - 2021
+-- FeedForward, BackPropagation 등 딥러닝 기초 공부
+- 한림대학교 소프트웨어융합대학 학술동아리 씨애랑 라떼팀 - 2021
+-- Kotlin을 활용한 AOS 앱 개발 공부
+
 ## 도움이 된 강의
 > Udemy
 > - 안드로이드 앱개발 부트캠프
