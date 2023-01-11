@@ -83,16 +83,11 @@ Made Simple Mips Processor using Verilog
 - 성균관대학교 AI x Bookathon 
 
 ## Club
-> 학과 동아리
 >- 한림대학교 소프트웨어융합대학 학술동아리 NoName - 2020
 >- 한림대학교 소프트웨어융합대학 학술동아리 씨애랑 텐서팀 - 2021
 >  - FeedForward, BackPropagation 등 딥러닝 기초 공부
 >- 한림대학교 소프트웨어융합대학 학술동아리 씨애랑 라떼팀 - 2021
 >  - Kotlin을 활용한 AOS 앱 개발 공부
-
-> 그 외
-> 하이클리어
-> - 
 
 ## 도움이 된 강의
 > Udemy
