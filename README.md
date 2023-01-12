@@ -3,12 +3,13 @@
 ## CONTACT
 <img src= "https://user-images.githubusercontent.com/107015573/207423248-f599a0a5-b62b-49a2-8f52-c3b8f1870da9.png" width="200" height="220">
 
-|성명|허태훈|
+|Name|HerTaeHoon|
 |------|-----|
 |E-mail|taehoon.her@gmail.com|
 |phone|010-8607-6438|
 |Blog|https://th-steven.tistory.com/|
 |github|https://github.com/TaeHoonHer|
+|Instagram|hertaehoon|
 
 ## Experience
 > - 2021.06 ~ 2021.12 한림대학교 빅데이터 AI 동아리 Data人Sight 회장
