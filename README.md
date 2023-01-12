@@ -11,7 +11,7 @@
 |github|https://github.com/TaeHoonHer|
 
 ## Experience
-> - 2021.06 ~ 2021.12 창업동아리 Team-A 1기 회장
+> - 2021.06 ~ 2021.12 한림대학교 빅데이터 AI 동아리 Data人Sight 회장
 > - 2021.04 ~ 2021.11 해양수산부 주최 한이음ICT 스마트해상물류 프로젝트 참여
 (라즈베리 파이를 활용한 주차장 시스템 제작)
 > - 2021.06 ~ 2022.02 Junisis R&D center
