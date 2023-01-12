@@ -83,14 +83,27 @@ Made Simple Mips Processor using Verilog
 - 성균관대학교 AI x Bookathon 
 
 ## Club
->- 한림대학교 소프트웨어융합대학 학술동아리 NoName - 2020
->- 한림대학교 소프트웨어융합대학 학술동아리 씨애랑 텐서팀 - 2021
->  - FeedForward, BackPropagation 등 딥러닝 기초 공부
->- 한림대학교 소프트웨어융합대학 학술동아리 씨애랑 라떼팀 - 2021
->  - Kotlin을 활용한 AOS 앱 개발 공부
+- 한림대학교 소프트웨어융합대학 학술동아리 NoName - 2020
+- 한림대학교 소프트웨어융합대학 학술동아리 씨애랑 텐서팀 - 2021
+  - FeedForward, BackPropagation 등 딥러닝 기초 공부
+- 한림대학교 소프트웨어융합대학 학술동아리 씨애랑 라떼팀 - 2021
+  - Kotlin을 활용한 AOS 앱 개발 공부
 
-## 도움이 된 강의
+## 도움이 된 프로그램
 > Udemy
 > - 안드로이드 앱개발 부트캠프
 > - Android Architecture Masterclass
 > - Deep Learning과 자연어처리의 모든 것
+
+> 교내
+> - Simple Mips Processor by Verilog
+> - 한림대학교 비전페어 IT 개발 직무[더존]
+> - 클라우드 AI 서비스 기반 VR/AR 앱 개발
+> - 글로벌 SW전문가 취업 특강
+> - 제품 내장형 AI 동향
+> - SW 전문가 특강 - 회사가 바라는 SW신입사원
+> - Docker의 개념 및 실습
+> - Overview of Hardware Acceleration for Deep Neural Network
+> - Introduction to Intelligent Algorithms for Automated Vehicle Systems
+> - ASIC Design & Verification
+> - Connected AI Service for the Next-Generation Mobile System
