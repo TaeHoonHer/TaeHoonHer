@@ -16,9 +16,9 @@
 > - 2021.06 ~ 2021.12 한림대학교 빅데이터 AI 동아리 Data人Sight Python을 활용한 자료구조&알고리즘 멘토
 > - 2021.04 ~ 2021.11 해양수산부 주최 한이음ICT 스마트해상물류 프로젝트 (Aos, Raspberry Pi)
 > - 2021.06 ~ 2022.02 Junisis R&D center 
-> -- Used Matlab for Frequency analysis
-> -- Learned Verilog
-> -- Design printed circuit board
+>> - Used Matlab for Frequency analysis
+>> - Learned Verilog
+>> - Design printed circuit board
 > - 2022.03 ~ 2022.07 한림대학교 빅데이터학과 상생러닝디딤돌 멘토
 > - 2022.06 ~ 2022.06 SW 중심대학 공동헤커톤 참여(UI & Android developer)
 > - 2022.04 ~ 2022.11 해양수산부 주최 한이음 ICT 스마트해상물류 프로젝트 (AI developer)
