@@ -20,7 +20,7 @@
 >> - Learned Verilog
 >> - Design printed circuit board
 > - 2022.03 ~ 2022.07 한림대학교 빅데이터학과 상생러닝디딤돌 멘토
-> - 2022.06 ~ 2022.06 SW 중심대학 공동헤커톤 참여(UI & Android developer)
+> - 2022.06 ~ 2022.06 SW 중심대학 공동헤커톤 (UI & Android developer)
 > - 2022.04 ~ 2022.11 해양수산부 주최 한이음 ICT 스마트해상물류 프로젝트 (AI developer)
 > - 2022.12 ~ 2023.01 성균관대학교 AI x Bookathon (AI developer)
 >>진행중인 활동
