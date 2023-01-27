@@ -31,7 +31,7 @@
 - 강서공업고등학교 U-정보통신과 졸업(2017 ~ 2019)
 
 ## laboratory
-|data|content|Location|
+|date|content|Location|
 |------|-----|--------|
 |March.2022.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 
