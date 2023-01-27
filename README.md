@@ -54,8 +54,10 @@
 - 모의 주차장 제작, 번호판 인식하는 프로그램 개발
 
 ### PortMiS 해상물류 서비스 개선안
-> - Python, Android Studio
-- 기존 Port_MIS 서비스의 단점들을 보완한 AOS 개선버전 개발 및 챗봇 기능 
+> - Python, Android Studio, NodeJS, Figma, JS
+- 기존 Port_MIS 서비스의 단점들을 보완한 AOS 개선버전 개발 및 챗봇 기능
+#### 개요
+Port-Mis를 모바일로 사용할 순 있지만, 관련된 어플리케이션은 존재하지 않습니다. 그래서 Port-Mis의 기능과 해양수산부에서 개발한 GICOMS 해양안전종합정보시스템을 참고하여 데이터를 사용자에게 보여주는 어플리케이션을 개발하기로 하였습니다
 
 ## Skills🌱
 ### Android
