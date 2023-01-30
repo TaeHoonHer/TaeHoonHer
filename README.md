@@ -11,7 +11,7 @@
 |github|https://github.com/TaeHoonHer|
 |Instagram|hertaehoon|
 |Toeic|945|
-|Toeic Speaking|Lv.7|
+|Toeic Speaking||
 
 ## Experience
 > - 2021.06 ~ 2021.12 한림대학교 빅데이터 AI 동아리 Data人Sight 회장
