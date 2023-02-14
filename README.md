@@ -1,4 +1,4 @@
-### HerTaeHoon
+# HerTaeHoon
 
 ### Introduction
 Hello, my name is HerTaehoon and I'm currently studying Computer Science at Hallym University in Korea. I have a strong background in Android development and firmware, and I'm now exploring the fascinating field of medical-related natural language processing. I'm deeply interested in new technologies and have been involved in a variety of projects, including developing an automatic parking system using Raspberry Pi and image recognition technology, as well as participating in a PortMis service improvement plan that combines chatbot and marine logistics. I'm also a regular participant in hackathons, always seeking new opportunities to learn and collaborate with others in the field.
