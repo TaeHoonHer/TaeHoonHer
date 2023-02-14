@@ -121,9 +121,3 @@ Made Simple Mips Processor using Verilog
 > - Introduction to Intelligent Algorithms for Automated Vehicle Systems
 > - ASIC Design & Verification
 > - Connected AI Service for the Next-Generation Mobile System
-
-***
-## 자기소개
-안녕하세요. 한림대학교 빅데이터학과에 4학년으로 재학중인 허태훈이라고합니다.
-
-2022년까지 AOS, firmware 개발을 주로 하다가 현재는 자연어 처리에서 비구조화된 의료 데이터를 처리하고 분석하는 의료와 관련된 자연어 처리를 공부하고 있습니
