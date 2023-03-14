@@ -28,6 +28,7 @@ Hello, my name is HerTaehoon and I'm currently studying Computer Science at Hall
 > - 2022.06 ~ 2022.06 SW 중심대학 공동헤커톤 (UI & Android developer)
 > - 2022.04 ~ 2022.11 해양수산부 주최 한이음 ICT 스마트해상물류 프로젝트 (AI developer)
 > - 2022.12 ~ 2023.01 성균관대학교 AI x Bookathon (AI developer)
+> - 2023.01 ~ 한림대학교 ALML 연구실 스터디
 >> 진행중인 활동
 >>- 2021.12 ~ 창업팀 Amatuer 개발대리 (Android)
 >>- 2022.11 ~ 창업팀 Choice 개발팀장 (Android)
