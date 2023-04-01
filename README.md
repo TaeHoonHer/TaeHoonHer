@@ -69,6 +69,8 @@ Hello, my name is HerTaehoon and I'm currently studying Computer Science at Hall
 #### 개요
 Port-Mis를 모바일로 사용할 순 있지만, 관련된 어플리케이션은 존재하지 않습니다. 그래서 Port-Mis의 기능과 해양수산부에서 개발한 GICOMS 해양안전종합정보시스템을 참고하여 데이터를 사용자에게 보여주는 어플리케이션을 개발하기로 하였습니다
 
+### 
+
 ## Skills🌱
 ### Android
 요구사항 분석 및 프로젝트 참여, 기술 개발을 할 수 있을 정도의 안드로이드 개발 능력을 가지고 있습니다
