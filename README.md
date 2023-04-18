@@ -37,6 +37,8 @@ Hello, my name is HerTaehoon and I'm currently studying Computer Science at Hall
 >>- 2022.03 ~  한림대학교 인공지능 가속 컴퓨팅 연구실 학부연구생
 >>- 2023 한림대학교 빅데이터학과 학술동아리 씨애랑 텐서 팀장
 >>- 2023-1학기 한림대학교 정보과학대학 전공멘토링 파이썬 멘토
+>>- 2023.03 ~ 해양수산부 주관 AI-Based Marine Logistics Analysis Program 프로젝트
+>>- 2023.03 ~ 해양수산부 주관 자율운항선박을 위한 인공지능 보안기술의 구현 프로젝트
 
 ## EDUCATION
 - 한림대학교 정보과학대학 소프트웨어학부 빅데이터학과 3학년 재학(2020.03 ~ )
