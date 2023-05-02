@@ -1,7 +1,8 @@
 # HerTaeHoon
 
 ### Self-Introduction 
-Hello, my name is HerTaehoon and I'm currently studying Computer Science at Hallym University in Korea. I have a strong background in Android development and firmware, and I'm now exploring the fascinating field of medical-related natural language processing. I'm deeply interested in new technologies and have been involved in a variety of projects, including developing an automatic parking system using Raspberry Pi and image recognition technology, as well as participating in a PortMis service improvement plan that combines chatbot and marine logistics. I'm also a regular participant in hackathons, always seeking new opportunities to learn and collaborate with others in the field.
+
+Hello, my name is HerTaehoon, and I am currently pursuing a degree in Computer Science at Hallym University in Korea. With a strong foundation in Android development and firmware, I have set my sights on exploring the exciting field of medical-related natural language processing. My passion for emerging technologies has driven me to participate in a range of projects, including the development of an automated parking system utilizing Raspberry Pi and image recognition technology, as well as contributing to a service enhancement plan for PortMis that merges chatbot functionality with marine logistics. Additionally, I regularly participate in hackathons, always eager to discover new opportunities to learn and collaborate with like-minded individuals in the field
 
 ## CONTACT
 <img src= "https://user-images.githubusercontent.com/107015573/207423248-f599a0a5-b62b-49a2-8f52-c3b8f1870da9.png" width="200" height="220">
