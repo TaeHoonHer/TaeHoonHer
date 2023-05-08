@@ -2,7 +2,11 @@
 
 ### Self-Introduction 
 
-Hello, my name is HerTaehoon, and I am currently pursuing a degree in Computer Science at Hallym University in Korea. With a strong foundation in Android development and firmware, I have set my sights on exploring the exciting field of medical-related natural language processing. My passion for emerging technologies has driven me to participate in a range of projects, including the development of an automated parking system utilizing Raspberry Pi and image recognition technology, as well as contributing to a service enhancement plan for PortMis that merges chatbot functionality with marine logistics. Additionally, I regularly participate in hackathons, always eager to discover new opportunities to learn and collaborate with like-minded individuals in the field
+Salutations, I am Her TaeHoon, a current undergraduate student pursuing studies in the Big Data Department of the Software Department at Hallym University. My fascination with cutting-edge technologies, particularly in the domains of app development, artificial intelligence, and natural language processing (NLP), has steered my academic interests in these fields
+
+My extensive involvement in diverse project initiatives, led by the Ministry of Oceans and Fisheries, has fortified my resolute commitment to acquiring practical skills and hands-on experience. As an accomplished developer, I have actively contributed to various hackathons such as the SW-centered hackathon and the Sungkyunkwan University Bookathon. My predilection for innovation has further led me to explore the intricate realms of firmware and circuit design, which I have vigorously pursued as a research and development intern at Junisis for a period of six months
+
+Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspire to deepen my knowledge and sharpen my skills in the field of NLP. My specific research interests lie in the fascinating realm of medical NLP, where NLP and medical artificial intelligence converge. I am confident that my academic and professional achievements to date serve as a testament to my proficiency and readiness for advanced research in this exciting and rapidly-evolving field
 
 ## CONTACT
 <img src= "https://user-images.githubusercontent.com/107015573/207423248-f599a0a5-b62b-49a2-8f52-c3b8f1870da9.png" width="200" height="220">
