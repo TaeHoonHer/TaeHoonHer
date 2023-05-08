@@ -54,7 +54,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 |March.2022.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 
 ## Technical Project
-> 작성이 아직 완료되지 않았습니다. 종강  작성 예정
+> 작성이 아직 완료되지 않았습니다. 종강 후 작성 예정
 ### BuyMe
 > - Kotlin, NodeJS, Figma
 > - 2022.07 ~ 2022.08
