@@ -49,7 +49,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 - 강서공업고등학교 U-정보통신과 졸업(2017 ~ 2019)
 
 ## Thesis
-- 노이즈 데이터가 포함된 감정 분류에서의 RNN 기반 모델의 견고성 평가 - JCCI
+- 노이즈 데이터가 포함된 감정 분류에서의 RNN 기반 모델의 견고성 평가 - 한국통신학회(JCCI 2023)
 - Research on effective machine learning-based models for imbalanced cardiovascular disease datasets - 한국정보과학회(KCC 2023)
 
 ## laboratory
