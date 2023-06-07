@@ -35,7 +35,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 
 ## Projects
 - (Apr. 2021 ~ Nov. 2021) IoT Port Access Management System, Ministry of Oceans and Fisheries, Korea / Android Development and Raspberry Pi Coding 
-- (Apr. 2022 ~ Nov. 2022) Development of AI-Based Interactive Maritime Logistics Integrated Complaint Service, Ministry of Oceans and Fisheries, Korea / Android Development & Chatbot Design and Development 
+- (Apr. 2022 ~ Nov. 2022) Development of AI-Based Interactive Maritime Logistics Integrated Complaint Service, Ministry of Oceans and Fisheries, Korea / AI Development 
 - (Mar. 2023 ~ June. 2023) Capstone Design, Hallym University, Korea 
 - (Apr. 2023 ~ Present) Development of AI-Based Maritime Logistics Analysis Program, Ministry of Oceans and Fisheries, Korea / Development of AI Model for Data Analysis, Classification, and Recommendation 
 - (Apr. 2023 ~ Present) Implementation of AI Security Technologies for Autonomous Vessels, Ministry of Oceans and Fisheries, Korea
