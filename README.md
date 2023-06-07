@@ -51,8 +51,9 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
   - Design printed circuit board
   
 ## Internship(Graduate School)
-- Advanced ultrasound research laboratory
-  - DGIST
+|date|content|Location|
+|------|-----|--------|
+|June.2023.|[Advanced ultrasound research laboratory]([https://sites.google.com/site/embeddedsochallymuniv/project](https://ultrasound.dgist.ac.kr/))|DGIST|
 
 ## EDUCATION
 - Hallym University Department of Big Data in the School of Software (2020.03 ~ )
