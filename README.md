@@ -21,77 +21,63 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 |Toeic|945|
 |Toeic Speaking|AM|
 
-## Experience
-> - 2021.06 ~ 2021.12 한림대학교 빅데이터 AI 동아리 Data人Sight 회장
-> - 2021.06 ~ 2021.12 한림대학교 빅데이터 AI 동아리 Data人Sight Python을 활용한 자료구조&알고리즘 멘토
-> - 2021.04 ~ 2021.11 해양수산부 주최 한이음ICT 스마트해상물류 프로젝트 (Aos, Raspberry Pi)
-> - 2021.06 ~ 2022.02 Junisis R&D center Intern
->> - Used Matlab for Frequency analysis
->> - Learned Verilog
->> - Design printed circuit board
-> - 2022.03 ~ 2022.07 한림대학교 빅데이터학과 상생러닝디딤돌 멘토
-> - 2022.06 ~ 2022.06 SW 중심대학 공동헤커톤 (UI & Android developer)
-> - 2022.04 ~ 2022.11 해양수산부 주최 한이음 ICT 스마트해상물류 프로젝트 (AI developer)
-> - 2022.12 ~ 2023.01 성균관대학교 AI x Bookathon (AI developer)
-> - 2023.02 ~ 2023.03 대학생 연합 자바 멘토
-> - 2023.07 ~ 2023.08 University of York IT연수 
->> 진행중인 활동
->>- 2021.12 ~ 창업팀 Amatuer 개발대리 (Android)
->>- 2022.11 ~ 창업팀 Choice 개발팀장 (Android)
->>- 2022.03 ~  한림대학교 인공지능 가속 컴퓨팅 연구실 학부연구생
->>- 2023 한림대학교 빅데이터학과 학술동아리 씨애랑 텐서 팀장
->>- 2023-1학기 한림대학교 정보과학대학 전공멘토링 파이썬 멘토
->>- 2023.03 ~ 해양수산부 주관 AI-Based Marine Logistics Analysis Program 프로젝트
->>- 2023.03 ~ 해양수산부 주관 자율운항선박을 위한 인공지능 보안기술의 구현 프로젝트
+## Leadership & Groups
+- (2021.06 ~ 2021.12) President of Data人Sight, Hallym University's Big Data AI Club
+- (2021.06 ~ 2021.12) Mentor for Data人Sight, Hallym University's Big Data AI Club, specializing in Data Structures and Algorithms using Python
+- (2022.03 ~ 2022.07) Mentor for "Sangsaeng Learning Ddimdol" program in the Big Data Department of Hallym University
+- (2023.02 ~ 2023.03) Java Mentor for University Student Union
+- (2023) President of "Tensor" team, the academic club of the Big Data Department at Hallym University, known as "CERANG"
+- (2023) Python Mentor for the Department of Computer Science, Hallym University, in the College of Information Science
+
+## Hackathon
+- UI & Android Developer for the SW-centered University Joint Hackathon
+- AI Developer for the SKKU AI x Bookathon event at Sungkyunkwan University
+
+## Projects
+- (Apr. 2021 ~ Nov. 2021) IoT Port Access Management System, Ministry of Oceans and Fisheries, Korea / Android Development and Raspberry Pi Coding 
+- (Apr. 2022 ~ Nov. 2022) Development of AI-Based Interactive Maritime Logistics Integrated Complaint Service, Ministry of Oceans and Fisheries, Korea / Android Development & Chatbot Design and Development 
+- (Mar. 2023 ~ June. 2023) Capstone Design, Hallym University, Korea 
+- (Apr. 2023 ~ Present) Development of AI-Based Maritime Logistics Analysis Program, Ministry of Oceans and Fisheries, Korea / Development of AI Model for Data Analysis, Classification, and Recommendation 
+- (Apr. 2023 ~ Present) Implementation of AI Security Technologies for Autonomous Vessels, Ministry of Oceans and Fisheries, Korea
+
+## Startup Team
+- (December. 2022 ~ Present) Team Amatuer Development Agency
+- (December. 2022 ~ Present) Team Choice Development Team Leader
+
+## Internship
+- 2021.06 ~ 2022.02 Junisis R&D center Intern
+  - Used Matlab for Frequency analysis
+  - Learned Verilog 
+  - Design printed circuit board
+  
+- Advanced ultrasound research laboratory, DGIST, Korea(Research Intern)
 
 ## EDUCATION
-- 한림대학교 정보과학대학 소프트웨어학부 빅데이터학과 3학년 재학(2020.03 ~ )
-- 강서공업고등학교 U-정보통신과 졸업(2017 ~ 2019)
+- Hallym University Department of Big Data in the School of Software (2020.03 ~ )
+-  Gangseo Industrial High School majoring in U-ICT (2017 ~ 2019)
 
 ## Thesis
-- 노이즈 데이터가 포함된 감정 분류에서의 RNN 기반 모델의 견고성 평가 - 한국통신학회(JCCI 2023)
-- Research on effective machine learning-based models for imbalanced cardiovascular disease datasets - 한국정보과학회(KCC 2023)
+- TaeHoon Her, DongYoung Kim, JeongGun Lee, “Evaluating the Robustness of RNN-Based Models in Emotion Classification with Noisy Data”, JCCI, YeoSu, Korea (Apr.2023) - Oral
+- TaeHoon Her, "Research on effective machine learning based models for imbalanced cardiovasculardisease datasets.", KCC, Jeju Island, Korea (Jun. 2023) - Poster
+
+## Programs Abroad
+- 2023.07 ~ 2023.08 University of York 
 
 ## laboratory
 |date|content|Location|
 |------|-----|--------|
 |March.2022.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 
-## Technical Project
-> 작성이 아직 완료되지 않았습니다. 종강 후 작성 예정
-### BuyMe
-> - Kotlin, NodeJS, Figma
-> - 2022.07 ~ 2022.08
-- 본인이 만든 프로젝트, 촬영한 사진 등 나와 관련된 모든 것들을 팔 수 있는 서비스
-- Android Studio에서 Kotlin, Java 2가지 언어를 복수로 사용하여 개발
-- 개인 프로젝트로써 서버 구현, 개발, 디자인 스스로 구현
-
-### Amatuer
-> - Kotlin
-> - 2022.01 ~ 2023.01
-- Android Studio에서 kotlin을 활용하여 내부 기능 구현
-
-### 라즈베리 파이를 활용한 주차장 시스템
-> - Python, V2 Camera
-- 모의 주차장 제작, 번호판 인식하는 프로그램 개발
-
-### PortMiS 해상물류 서비스 개선안
-> - Python, Android Studio, NodeJS, Figma, JS
-- 기존 Port_MIS 서비스의 단점들을 보완한 AOS 개선버전 개발 및 챗봇 기능
-#### 개요
-Port-Mis를 모바일로 사용할 순 있지만, 관련된 어플리케이션은 존재하지 않습니다. 그래서 Port-Mis의 기능과 해양수산부에서 개발한 GICOMS 해양안전종합정보시스템을 참고하여 데이터를 사용자에게 보여주는 어플리케이션을 개발하기로 하였습니다
-
-### 
 
 ## Skills🌱
 ### Android
-요구사항 분석 및 프로젝트 참여, 기술 개발을 할 수 있을 정도의 안드로이드 개발 능력을 가지고 있습니다
+Have the ability to analyze requirements, participate in project development, and possess sufficient Android development skills to accomplish tasks
 - kotlin, java
 
 ### Python
 
 ### Ui design
-스스로 디자인을 구상하고 만들 수 있을 정도의 스킬을 가지고 있습니다
+Have the skills to conceive and create designs independently
 - Figma
 - Photoshop
 
@@ -99,40 +85,40 @@ Port-Mis를 모바일로 사용할 순 있지만, 관련된 어플리케이션�
 Made Simple Mips Processor using Verilog
 
 ### other
-- 대학생 연합 (학습보조 App 프로젝트 참여)
-- 한림대학교 소프트웨어학부 학술 동아리 씨애랑 소프트웨어 전시회 참여(주제 : [딥러닝] 이미지 분류, 요금 예상, OTT별 콘텐츠 추천)
-- 디자인 협업 (Figma)
-- 버전관리 (Git / Gitlab)
-- 배포 (단계적배포)
-- 커뮤니케이션 (slack)
-- 팀 (목적조직)
+- Participation in a University Student Union (Learning Assistance App Project)
+- Participation in the Software Exhibition by Searang, the Academic Club of the Department of Software at Hallym University (Theme: [Deep Learning] Image Classification, Fare Estimation, Content Recommendations for OTT Platforms)
+- Design Collaboration (Figma)
+- Version Control (Git / GitLab)
+- Deployment (Step-by-step Deployment)
+- Communication (Slack)
+- Team (Purposeful Organization)
 
 ## Awards and Honors
-- 한림대학교 창업아이디어 경진대회 대상[1위] - 2021
-- 한림대학교 창업아이디어 경진대회 금상[1위] - 2022
-- 한림대학교 Triple S Challenge 4위 - 2022
+- Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
+- Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2022)
+- Triple S Challenge 4th - 2022
 
 ## Club
-- 한림대학교 소프트웨어융합대학 학술동아리 NoName - 2020
-- 한림대학교 소프트웨어융합대학 학술동아리 씨애랑 텐서팀 - 2021
-  - FeedForward, BackPropagation 등 딥러닝 기초 공부
-- 한림대학교 소프트웨어융합대학 학술동아리 씨애랑 라떼팀 - 2022
-  - Kotlin을 활용한 AOS 앱 개발 공부
+- The academic club of the Big Data Department at Hallym University, known as "NoName" - 2020
+- "Tensor" team, the academic club of the Big Data Department at Hallym University, known as "CERANG" - 2021
+  - Studying the Basics of Deep Learning such as FeedForward and BackPropagation
+- "Latte" team, the academic club of the Big Data Department at Hallym University, known as "CERANG" - 2022
+  - Studying Android App Development with Kotlin
 
-## 도움이 된 프로그램
+## Helpful Programs
 > Udemy
-> - 안드로이드 앱개발 부트캠프
+> - Android App Development Bootcamp
 > - Android Architecture Masterclass
-> - Deep Learning과 자연어처리의 모든 것
+> - Everything about Deep Learning and Natural Language Processing
 
-> 교내
+> On-campus
 > - Simple Mips Processor by Verilog
-> - 한림대학교 비전페어 IT 개발 직무[더존]
-> - 클라우드 AI 서비스 기반 VR/AR 앱 개발
-> - 글로벌 SW전문가 취업 특강
-> - 제품 내장형 AI 동향
-> - SW 전문가 특강 - 회사가 바라는 SW신입사원
-> - Docker의 개념 및 실습
+> - Vision Fair IT Development Position at Hallym University [Douzone]
+> - Developing VR/AR Apps based on Cloud AI Services
+> - Guest Lecture on Career Opportunities as a Global Software Expert
+> - Trends in Embedded AI for Products
+> - Guest Lecture on "Expectations of Software Companies for New Software Engineers"
+> - Concept and Hands-on Practice of Docker
 > - Overview of Hardware Acceleration for Deep Neural Network
 > - Introduction to Intelligent Algorithms for Automated Vehicle Systems
 > - ASIC Design & Verification
