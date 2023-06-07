@@ -44,13 +44,15 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 - (December. 2022 ~ Present) Team Amatuer Development Agency
 - (December. 2022 ~ Present) Team Choice Development Team Leader
 
-## Internship
+## Internship(Company)
 - 2021.06 ~ 2022.02 Junisis R&D center Intern
   - Used Matlab for Frequency analysis
   - Learned Verilog 
   - Design printed circuit board
   
-- Advanced ultrasound research laboratory, DGIST, Korea(Research Intern)
+## Internship(Graduate School)
+- Advanced ultrasound research laboratory
+  - DGIST
 
 ## EDUCATION
 - Hallym University Department of Big Data in the School of Software (2020.03 ~ )
