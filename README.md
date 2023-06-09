@@ -100,6 +100,7 @@ Made Simple Mips Processor using Verilog
 - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
 - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2022)
 - Triple S Challenge 4th - 2022
+- President's Award(1st) for Software Capstone Design at Hallym University (June. 2023)
 
 ## Club
 - The academic club of the Big Data Department at Hallym University, known as "NoName" - 2020
