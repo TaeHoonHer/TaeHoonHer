@@ -63,6 +63,12 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 - TaeHoon Her, DongYoung Kim, JeongGun Lee, “Evaluating the Robustness of RNN-Based Models in Emotion Classification with Noisy Data”, JCCI, YeoSu, Korea (Apr.2023) - Oral
 - TaeHoon Her, "Research on effective machine learning based models for imbalanced cardiovasculardisease datasets.", KCC, Jeju Island, Korea (Jun. 2023) - Poster
 
+## Awards and Honors
+- Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
+- Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2022)
+- Triple S Challenge 4th - 2022
+- President's Award(1st) for Software Capstone Design at Hallym University (June. 2023)
+
 ## Programs Abroad
 - 2023.07 ~ 2023.08 University of York 
 
@@ -95,12 +101,6 @@ Made Simple Mips Processor using Verilog
 - Deployment (Step-by-step Deployment)
 - Communication (Slack)
 - Team (Purposeful Organization)
-
-## Awards and Honors
-- Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
-- Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2022)
-- Triple S Challenge 4th - 2022
-- President's Award(1st) for Software Capstone Design at Hallym University (June. 2023)
 
 ## Club
 - The academic club of the Big Data Department at Hallym University, known as "NoName" - 2020
