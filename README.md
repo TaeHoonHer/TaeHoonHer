@@ -26,7 +26,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 - (2021.06 ~ 2021.12) Mentor for Data人Sight, Hallym University's Big Data AI Club, specializing in Data Structures and Algorithms using Python
 - (2022.03 ~ 2022.07) Mentor for "Sangsaeng Learning Ddimdol" program in the Big Data Department of Hallym University
 - (2023.02 ~ 2023.03) Java Mentor for University Student Union
-- (2023) President of "Tensor" team, the academic club of the Big Data Department at Hallym University, known as "CERANG"
+- (2023) President of "Tensor" team, the academic club of the Big Data Department at Hallym University, known as "C.AERANG"
 - (2023) Python Mentor for the Department of Computer Science, Hallym University, in the College of Information Science
 
 ## Hackathon
@@ -41,7 +41,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 - (Apr. 2023 ~ Present) Implementation of AI Security Technologies for Autonomous Vessels, Ministry of Oceans and Fisheries, Korea
 
 ## Startup Team
-- (December. 2022 ~ Present) Team Amatuer Development Agency
+- (December. 2021 ~ Present) Team Amatuer Development Agency
 - (December. 2022 ~ Present) Team Choice Development Team Leader
 
 ## Internship(Company)
