@@ -53,6 +53,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 ## Internship(Graduate School)
 |date|content|Location|
 |------|-----|--------|
+|March.2022. ~ May.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 |June.2023.|[Advanced ultrasound research laboratory](https://ultrasound.dgist.ac.kr/)|DGIST|
 
 ## EDUCATION
@@ -71,11 +72,6 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 
 ## Programs Abroad
 - 2023.07 ~ 2023.08 University of York 
-
-## laboratory
-|date|content|Location|
-|------|-----|--------|
-|March.2022.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 
 
 ## Skills🌱
