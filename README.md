@@ -53,7 +53,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 ## Internship(Graduate School)
 |date|content|Location|
 |------|-----|--------|
-|March.2022. ~ May.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
+|Jan.2022. ~ May.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 |June.2023. ~ July.2023.|[Advanced ultrasound research laboratory](https://ultrasound.dgist.ac.kr/)|DGIST|
 
 ## EDUCATION
