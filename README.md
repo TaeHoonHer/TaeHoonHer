@@ -58,7 +58,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 
 ## EDUCATION
 - Hallym University Department of Big Data in the School of Software (2020.03 ~ )
--  Gangseo Industrial High School majoring in U-ICT (2017 ~ 2019)
+-  Gangseo Industrial High School majoring in U-ICT (2017.03 ~ 2020.02)
 
 ## Thesis
 - TaeHoon Her, DongYoung Kim, JeongGun Lee, “Evaluating the Robustness of RNN-Based Models in Emotion Classification with Noisy Data”, JCCI, YeoSu, Korea (Apr.2023) - Oral
