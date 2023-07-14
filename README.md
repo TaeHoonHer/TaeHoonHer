@@ -18,7 +18,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 |Blog|https://th-steven.tistory.com/|
 |github|https://github.com/TaeHoonHer|
 |Instagram|hertaehoon|
-|Toeic|945|
+|Toeic|975|
 |Toeic Speaking|AM|
 
 ## Leadership & Groups
