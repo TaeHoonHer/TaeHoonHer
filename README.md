@@ -18,6 +18,8 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 |Blog|https://th-steven.tistory.com/|
 |github|https://github.com/TaeHoonHer|
 |Instagram|hertaehoon|
+|Toeic|975|
+|Toeic Speaking|AM|
 
 ## Leadership & Groups
 - (2021.06 ~ 2021.12) President of Data人Sight, Hallym University's Big Data AI Club
