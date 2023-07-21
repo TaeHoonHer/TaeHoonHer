@@ -21,6 +21,13 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 |Toeic|975|
 |Toeic Speaking|AM|
 
+## Ongoing
+- Papers in progress:
+
+  - 2 papers for IEEE
+  - 4 papers for a domestic academic conference (Project by the Ministry of Oceans and Fisheries of South Korea)
+  - 1 paper on statistical analysis
+
 ## Leadership & Groups
 - (2021.06 ~ 2021.12) President of Data人Sight, Hallym University's Big Data AI Club
 - (2021.06 ~ 2021.12) Mentor for Data人Sight, Hallym University's Big Data AI Club, specializing in Data Structures and Algorithms using Python
