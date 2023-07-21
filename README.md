@@ -25,7 +25,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 - ### Papers in progress
 
   - 2 papers for IEEE
-  - 4 papers for a domestic academic conference (Project by the Ministry of Oceans and Fisheries of South Korea)
+  - 4 papers for a domestic academic conference (Project by the Ministry of Oceans and Fisheries of South Korea & The Federation of Korean Information Industries)
   - 1 paper on statistical analysis
 
 ## Leadership & Groups
