@@ -39,6 +39,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 ## Hackathon
 - UI & Android Developer for the SW-centered University Joint Hackathon
 - AI Developer for the SKKU AI x Bookathon event at Sungkyunkwan University
+- Representative Team from Gangwon Province Participating in National SW-Centric Hackathon (OnGoing)
 
 ## Projects
 - (Apr. 2021 ~ Nov. 2021) IoT Port Access Management System, Ministry of Oceans and Fisheries, Korea / Android Development and Raspberry Pi Coding 
