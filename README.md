@@ -48,8 +48,8 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 - (Apr. 2023 ~ Present) Implementation of AI Security Technologies for Autonomous Vessels, Ministry of Oceans and Fisheries, Korea
 
 ## Startup Team
-- (December. 2021 ~ Present) Team Amatuer Development Agency
-- (December. 2022 ~ Present) Team Choice Development Team Leader
+- (December. 2021 ~ Jul. 2023) Team Amatuer Development Agency
+- (December. 2022 ~ Aug. 2023) Team Choice Development Team Leader
 
 ## Internship(Company)
 - 2021.06 ~ 2022.02 Junisis R&D center Intern
