@@ -75,7 +75,6 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 ## Awards and Honors
 - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
 - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2022)
-- Triple S Challenge 4th - 2022
 - President's Award(1st) for Software Capstone Design at Hallym University (June. 2023)
 
 ## Programs Abroad
