@@ -45,7 +45,7 @@ Currently, I am steadfastly dedicated to pursuing graduate studies, where I aspi
 - (Mar. 2023 ~ June. 2023) Capstone Design, Hallym University, Korea 
 - (Apr. 2023 ~ Present) Development of AI-Based Maritime Logistics Analysis Program, Ministry of Oceans and Fisheries, Korea / Development of AI Model for Data Analysis, Classification, and Recommendation 
 - (Apr. 2023 ~ Present) Implementation of AI Security Technologies for Autonomous Vessels, Ministry of Oceans and Fisheries, Korea
-- (Aug. 2023 ~ Present) Development Project for Government Support Education Application
+- (Sep. 2023 ~ Feb.2024) Professor Kim Jin of Hallym University's participation in the medical project development
 
 ## Startup Team
 - (December. 2021 ~ Jul. 2023) Team Amatuer Development Agency
