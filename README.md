@@ -1,6 +1,7 @@
 # HerTaeHoon
 
-### Self-Introduction 
+Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym University. I have an interest in medical ultrasound and am currently conducting research related to Explainable Artificial Intelligence
+
 ## CONTACT
 <img src= "https://user-images.githubusercontent.com/107015573/207423248-f599a0a5-b62b-49a2-8f52-c3b8f1870da9.png" width="200" height="220">
 
