@@ -61,7 +61,7 @@ Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym 
 |---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|
 |TaeHoon Her, DongYoung Kim, JeongGun Lee|Evaluating the Robustness of RNN-Based Models in Emotion Classification with Noisy Data|JCCI|YeoSu, Korea (Apr.2023)|Oral|
 |TaeHoon Her|Research on effective machine learning based models for imbalanced cardiovasculardisease datasets|KCC|Jeju Island, Korea (Jun. 2023)|Poster|
-|Tae-Hoon Her*, Na-Hyun Kim, So-Yeon Kim, Ju-Hyeong Kim|Improving the Efficiency of Defense Mechanisms Against Adversarial Attacks|Korea Artificial Intelligence Conference|JeJu, Korea (Sep.20 ~ Sep.23)|Oral|
+|Tae-Hoon Her*, Na-Hyun Kim, So-Yeon Kim, Ju-Hyeong Kim|Improving the Efficiency of Defense Mechanisms Against Adversarial Attacks|Korea Artificial Intelligence Conference|JeJu, Korea (Sep.21)|Oral|
 
 ## Awards and Honors
 - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
