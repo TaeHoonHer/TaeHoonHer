@@ -13,6 +13,10 @@ Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym 
 |github|https://github.com/TaeHoonHer|
 |Instagram|hertaehoon|
 
+## EDUCATION
+- Hallym University Department of Big Data in the School of Software (2020.03 ~ )
+-  Gangseo Industrial High School majoring in U-ICT (2017.03 ~ 2020.02)
+
 ## Leadership & Groups
 - (2021.06 ~ 2021.12) President of Data人Sight, Hallym University's Big Data AI Club
 - (2021.06 ~ 2021.12) Mentor for Data人Sight, Hallym University's Big Data AI Club, specializing in Data Structures and Algorithms using Python
@@ -51,10 +55,6 @@ Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym 
 |June.2023. ~ July.2023.|[Advanced ultrasound research laboratory](https://ultrasound.dgist.ac.kr/)|DGIST|
 |Aug.2023. ~ Dec.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 |Aug.2023. ~ Dec.2023.|Medical Ultrasound Image Processing Lab (Supervisor: MH. Bae)|Hallym. Univ.|
-
-## EDUCATION
-- Hallym University Department of Big Data in the School of Software (2020.03 ~ )
--  Gangseo Industrial High School majoring in U-ICT (2017.03 ~ 2020.02)
 
 ## Thesis
 |Author|Paper Title|Conference|Venue|Presentation Method|
