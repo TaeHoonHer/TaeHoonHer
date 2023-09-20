@@ -53,7 +53,6 @@ Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym 
 |------|-----|--------|
 |Jan.2022. ~ May.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 |June.2023. ~ July.2023.|[Advanced ultrasound research laboratory](https://ultrasound.dgist.ac.kr/)|DGIST|
-|Aug.2023. ~ Dec.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 |Aug.2023. ~ Dec.2023.|Medical Ultrasound Image Processing Lab|Hallym. Univ.|
 
 ## Thesis
