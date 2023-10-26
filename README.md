@@ -14,7 +14,7 @@ Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym 
 |Instagram|hertaehoon|
 
 ## EDUCATION
-- Hallym University Department of Big Data in the School of Software (2020.03 ~ )
+- Hallym University Department of Big Data in the School of Software (2020.03 ~ 2024.02)
 -  Gangseo Industrial High School majoring in U-ICT (2017.03 ~ 2020.02)
 
 ## Leadership & Groups
