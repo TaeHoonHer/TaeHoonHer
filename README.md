@@ -36,8 +36,8 @@ Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym 
 - (Mar. 2023 ~ June. 2023) Capstone Design, Hallym University, Korea 
 - (Apr. 2023 ~ Dec. 2023) Development of AI-Based Maritime Logistics Analysis Program, Ministry of Oceans and Fisheries, Korea / Development of AI Model for Data Analysis, Classification, and Recommendation 
 - (Apr. 2023 ~ Dec. 2023) Implementation of AI Security Technologies for Autonomous Vessels, Ministry of Oceans and Fisheries, Korea
-- (Sep. 2023 ~ Feb.2024) Professor Kim Jin of Hallym University's participation in the medical project development
-
+- (Sep. 2023 ~ Feb. 2024) Professor Kim Jin of Hallym University's participation in the medical project development
+- (Sep. 2023 ~ Feb. 2024) National Medical Ultrasound Research Project Assistant Researcher
 ## Startup Team
 - (December. 2021 ~ Jul. 2023) Team Amatuer Development Agency
 - (December. 2022 ~ Aug. 2023) Team Choice Development Team Leader
