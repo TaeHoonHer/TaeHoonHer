@@ -103,6 +103,8 @@ Made Simple Mips Processor using Verilog
   - Studying the Basics of Deep Learning such as FeedForward and BackPropagation
 - "Latte" team, the academic club of the Big Data Department at Hallym University, known as "CERANG" - 2022
   - Studying Android App Development with Kotlin
+- "Tensor" team, the academic club of the Big Data Department at Hallym University, known as "CERANG" - 2023
+  - Team Leader
 
 ## Helpful Programs
 > Udemy
