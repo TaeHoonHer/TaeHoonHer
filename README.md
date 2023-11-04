@@ -67,11 +67,11 @@ Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym 
 - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
 - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2022)
 - President's Award(1st) for Software Capstone Design at Hallym University (June. 2023)
-- Korean Information Processing Society President's Award(Oct. 2023)
+- Korea Information Processing Society 2023 Maritime Logistics Track Outstanding Paper Award Winner (Oct. 2023)
+- Hallym University 2023 SW Week GitHub Resume Competition Second Prize (Oct. 2023)
 
 ## Programs Abroad
 - 2023.07 ~ 2023.08 University of York 
-
 
 ## Skills🌱
 ### Android
