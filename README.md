@@ -56,7 +56,7 @@ Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym 
 |June.2023. ~ July.2023.|[Advanced ultrasound research laboratory](https://ultrasound.dgist.ac.kr/)|DGIST|
 |Aug.2023. ~ Dec.2023.|Medical Ultrasound Image Processing Lab|Hallym. Univ.|
 
-## Thesis
+## Thesis(Undergraduate)
 |Author|Paper Title|Conference|Venue|Presentation Method|
 |---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|
 |TaeHoon Her*, DongYoung Kim, JeongGun Lee|Evaluating the Robustness of RNN-Based Models in Emotion Classification with Noisy Data|JCCI|YeoSu, Korea (Apr.2023)|Oral|
