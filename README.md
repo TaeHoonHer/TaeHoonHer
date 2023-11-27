@@ -14,7 +14,7 @@ Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym 
 |Instagram|hertaehoon|
 
 ## EDUCATION
-- Master's Program in Artificial Intelligence, Daegu Gyeongbuk Institute of Science and Technology(DGIST) (2024.02 ~ )
+- Master's student at Daegu Gyeongbuk Institute of Science and Technology(DGIST) (2024.02 ~ )
 - Hallym University Department of Big Data in the School of Software (2020.03 ~ 2024.02)
 - Gangseo Industrial High School majoring in U-ICT (2017.03 ~ 2020.02)
 
