@@ -3,7 +3,7 @@
 Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym University. I have an interest in medical ultrasound and am currently conducting research related to Explainable Artificial Intelligence
 
 ## CONTACT
-<img src= "https://github.com/TaeHoonHer/TaeHoonHer/assets/107015573/69562c36-f91e-4e13-94fb-c211fecb1bf1" width="200" height="250">
+<img src= "https://github.com/TaeHoonHer/TaeHoonHer/assets/107015573/69562c36-f91e-4e13-94fb-c211fecb1bf1" width="200" height="255">
 
 |Name|HerTaeHoon|
 |------|-----|
