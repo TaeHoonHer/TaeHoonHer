@@ -1,6 +1,6 @@
 # HerTaeHoon
 
-Hello, I am HerTaeHoon, currently enrolled in the Big Data Department at Hallym University. I have an interest in medical ultrasound and am currently conducting research related to Explainable Artificial Intelligence
+Hello, I am Heo Tae-hoon, a master's student in the Artificial Intelligence program at the Daegu Gyeongbuk Institute of Science and Technology (DGIST)
 
 ## CONTACT
 <img src= "https://github.com/TaeHoonHer/TaeHoonHer/assets/107015573/69562c36-f91e-4e13-94fb-c211fecb1bf1" width="200" height="255">
