@@ -7,7 +7,7 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 
 |Name|HerTaeHoon|
 |------|-----|
-|E-mail|taehoon.her@gmail.com|
+|E-mail|taehoon.her@dgist.ac.kr|
 |phone|010-8607-6438|
 |Blog|https://th-steven.tistory.com/|
 |github|https://github.com/TaeHoonHer|
