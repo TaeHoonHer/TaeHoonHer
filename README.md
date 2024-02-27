@@ -12,6 +12,7 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 |Blog|https://th-steven.tistory.com/|
 |github|https://github.com/TaeHoonHer|
 |Instagram|hertaehoon|
+|LinkedIn|https://www.linkedin.com/in/taehoon-her-1a094b2b5/|
 
 ## EDUCATION
 - Master's student at Daegu Gyeongbuk Institute of Science and Technology(DGIST) (2024.02 ~ )
