@@ -70,6 +70,7 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2022)
 - President's Award(1st) for Software Capstone Design at Hallym University (June. 2023)
 - Korea Information Processing Society 2023 Maritime Logistics Track Outstanding Paper Award Winner (Oct. 2023)
+  - https://www.smu.ac.kr/_attach/file/2024/03//iaPJuqLbndPAeJNQdCQQ.pdf  
 - Hallym University 2023 SW Week GitHub Resume Competition Second Prize (Oct. 2023)
 
 ## Programs Abroad
