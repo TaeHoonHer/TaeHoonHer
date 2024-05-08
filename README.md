@@ -66,6 +66,7 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 |TaeHoon Her|Research on effective machine learning based models for imbalanced cardiovasculardisease datasets|KCC|Jeju Island, Korea (Jun. 2023)|Poster|
 |Tae-Hoon Her*, Na-Hyun Kim, So-Yeon Kim, Ju-Hyeong Kim|Improving the Efficiency of Defense Mechanisms Against Adversarial Attacks|Korea Artificial Intelligence Conference|JeJu, Korea (Sep.21)|Oral|
 |Tae-Hoon Her*, Na-Hyun Kim, So-Yeon Kim, Ju-Hyeong Kim|Adversarial Attacks and Detection Methods for Autonomous ship|ACK2023|Busan, Korea (Nov.2023)|Oral|
+|Tae-Hoon Her*, Sangheon Lee, Jaesok Yu|Highly Accurate Lind Source Separation In Passive Sonar Using Demon Preprocessing on Time Domain|THE ACOUSTICAL SOCIETY OF KOREA|JeJu, Korea (May.2024)|Oral|
 
 ## Awards and Honors
 - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
