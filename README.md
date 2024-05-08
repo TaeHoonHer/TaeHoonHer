@@ -14,7 +14,7 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 |Instagram|hertaehoon|
 |LinkedIn|https://www.linkedin.com/in/taehoon-her-1a094b2b5/|
 |Toeic|985|
-|Toefl|107|
+|TOEFL|107|
 
 ## EDUCATION
 - Master's student at Daegu Gyeongbuk Institute of Science and Technology(DGIST) (2024.02 ~ )
