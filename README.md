@@ -16,9 +16,11 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 |Toeic|985|
 |TOEFL|107|
 
-## EDUCATION
+## Career History
+- POSTECH Summer Exchange Program (2024.07)
 - Master's student at Daegu Gyeongbuk Institute of Science and Technology(DGIST) (2024.02 ~ )
 - Hallym University Department of Big Data in the School of Software (2020.03 ~ 2024.02)
+- University of York Summer Internship (2023.07 ~ 2023.08) 
 - Gangseo Industrial High School majoring in U-ICT (2017.03 ~ 2020.02)
 
 ## Leadership & Groups
@@ -76,7 +78,7 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 - Hallym University 2023 SW Week GitHub Resume Competition Second Prize (Oct. 2023)
 
 ## Programs Abroad
-- 2023.07 ~ 2023.08 University of York 
+
 
 ## Skills🌱
 ### Android
