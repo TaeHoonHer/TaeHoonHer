@@ -24,8 +24,8 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 - Gangseo Industrial High School majoring in U-ICT (2017.03 ~ 2020.02)
 
 # UnderGraduate
-- - -
-## Leadership & Groups
+
+> ## Leadership & Groups
 - (2021.06 ~ 2021.12) President of Data人Sight, Hallym University's Big Data AI Club
 - (2021.06 ~ 2021.12) Mentor for Data人Sight, Hallym University's Big Data AI Club, specializing in Data Structures and Algorithms using Python
 - (2022.03 ~ 2022.07) Mentor for "Sangsaeng Learning Ddimdol" program in the Big Data Department of Hallym University
