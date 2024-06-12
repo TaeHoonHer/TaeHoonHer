@@ -27,7 +27,7 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 ## Paper
 |Author|Paper Title|Conference|Venue|Presentation Method|
 |---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|
-|TaeHoon Her*, Sangheon Lee, Jaesok Yu|시간 영역에서의 Demon 전처리 기반 수동 소나 신호 분리 딥러닝 모델 개발|한국음향학회|JeJu, Korea (May.2024)|Oral|
+|TaeHoon Her*, Sangheon Lee, Jaesok Yu|시간 영역에서의 Demon 전처리 기반 수동 소나 신호 분리 딥러닝 모델 개발|THE ACOUSTICAL SOCIETY OF KOREA|JeJu, Korea (May.2024)|Oral|
 |TaeHoon Her*, Sangheon Lee, Jaesok Yu|Highly Accurate Blind Source Separation in Passive Sonar Using Demon Preprocessing on Time Domain|IEEE UFFC-JS|Taipei, Taiwan (Sep. 2024)|Oral|
 
 
