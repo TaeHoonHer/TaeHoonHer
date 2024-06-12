@@ -23,8 +23,15 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 - University of York Summer Internship (2023.07 ~ 2023.08) 
 - Gangseo Industrial High School majoring in U-ICT (2017.03 ~ 2020.02)
 
-# UnderGraduate
+# Graduate School(M.S.)
+## Paper
+|Author|Paper Title|Conference|Venue|Presentation Method|
+|---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|
+|TaeHoon Her*, Sangheon Lee, Jaesok Yu|시간 영역에서의 Demon 전처리 기반 수동 소나 신호 분리 딥러닝 모델 개발|한국음향학회|JeJu, Korea (May.2024)|Oral|
+|TaeHoon Her*, Sangheon Lee, Jaesok Yu|Highly Accurate Blind Source Separation in Passive Sonar Using Demon Preprocessing on Time Domain|IEEE UFFC-JS|Taipei, Taiwan (Sep. 2024)|Oral|
 
+
+# UnderGraduate
 ## Leadership & Groups
 - (2021.06 ~ 2021.12) President of Data人Sight, Hallym University's Big Data AI Club
 - (2021.06 ~ 2021.12) Mentor for Data人Sight, Hallym University's Big Data AI Club, specializing in Data Structures and Algorithms using Python
@@ -56,14 +63,14 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
   - Learned Verilog 
   - Design printed circuit board
   
-> ## Internship(Graduate School)
+## Internship(Graduate School)
 |date|content|department|
 |------|-----|--------|
 |Jan.2022. ~ May.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 |June.2023. ~ July.2023.|[Advanced ultrasound research laboratory](https://ultrasound.dgist.ac.kr/)|DGIST|
 |Aug.2023. ~ Dec.2023.|Medical Ultrasound Image Processing Lab|Hallym. Univ.|
 
-> ## Paper
+## Paper
 |Author|Paper Title|Conference|Venue|Presentation Method|
 |---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|
 |TaeHoon Her*, DongYoung Kim, JeongGun Lee|Evaluating the Robustness of RNN-Based Models in Emotion Classification with Noisy Data|JCCI|YeoSu, Korea (Apr.2023)|Oral|
@@ -71,16 +78,16 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 |Tae-Hoon Her*, Na-Hyun Kim, So-Yeon Kim, Ju-Hyeong Kim|Improving the Efficiency of Defense Mechanisms Against Adversarial Attacks|Korea Artificial Intelligence Conference|JeJu, Korea (Sep.21)|Oral|
 |Tae-Hoon Her*, Na-Hyun Kim, So-Yeon Kim, Ju-Hyeong Kim|Adversarial Attacks and Detection Methods for Autonomous ship|ACK2023|Busan, Korea (Nov.2023)|Oral|
 
-> ## Awards and Honors
->> - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
->> - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2022)
->> - President's Award(1st) for Software Capstone Design at Hallym University (June. 2023)
->> - Korea Information Processing Society 2023 Maritime Logistics Track Outstanding Paper Award Winner (Oct. 2023)
->>>  - https://www.smu.ac.kr/_attach/file/2024/03//iaPJuqLbndPAeJNQdCQQ.pdf  
->> - Hallym University 2023 SW Week GitHub Resume Competition Second Prize (Oct. 2023)
+## Awards and Honors
+  - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
+  - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2022)
+  - President's Award(1st) for Software Capstone Design at Hallym University (June. 2023)
+  - Korea Information Processing Society 2023 Maritime Logistics Track Outstanding Paper Award Winner (Oct. 2023)
+    - https://www.smu.ac.kr/_attach/file/2024/03//iaPJuqLbndPAeJNQdCQQ.pdf  
+  - Hallym University 2023 SW Week GitHub Resume Competition Second Prize (Oct. 2023)
 
-> ## Programs Abroad
->> - University of York Summer Internship (2023.07 ~ 2023.08)
+## Programs Abroad
+- University of York Summer Internship (2023.07 ~ 2023.08)
 - - -
 
 ## Skills🌱
