@@ -56,14 +56,14 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 >>>  - Learned Verilog 
 >>>  - Design printed circuit board
   
-## Internship(Graduate School)
-|date|content|department|
+> ## Internship(Graduate School)
+>|date|content|department|
 |------|-----|--------|
 |Jan.2022. ~ May.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
 |June.2023. ~ July.2023.|[Advanced ultrasound research laboratory](https://ultrasound.dgist.ac.kr/)|DGIST|
 |Aug.2023. ~ Dec.2023.|Medical Ultrasound Image Processing Lab|Hallym. Univ.|
 
-## Paper(Undergraduate)
+## Paper
 |Author|Paper Title|Conference|Venue|Presentation Method|
 |---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|
 |TaeHoon Her*, DongYoung Kim, JeongGun Lee|Evaluating the Robustness of RNN-Based Models in Emotion Classification with Noisy Data|JCCI|YeoSu, Korea (Apr.2023)|Oral|
