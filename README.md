@@ -25,36 +25,36 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 
 # UnderGraduate
 
-> ## Leadership & Groups
->> - (2021.06 ~ 2021.12) President of Data人Sight, Hallym University's Big Data AI Club
->> - (2021.06 ~ 2021.12) Mentor for Data人Sight, Hallym University's Big Data AI Club, specializing in Data Structures and Algorithms using Python
->> - (2022.03 ~ 2022.07) Mentor for "Sangsaeng Learning Ddimdol" program in the Big Data Department of Hallym University
->> - (2023.02 ~ 2023.03) Java Mentor for University Student Union
->> - (2023.03 ~ 2023.12) President of "Tensor" team, the academic club of the Big Data Department at Hallym University, known as "C.AERANG"
->> - (2023.03 ~ 2023.06) Python Mentor for the Department of Computer Science, Hallym University
+## Leadership & Groups
+- (2021.06 ~ 2021.12) President of Data人Sight, Hallym University's Big Data AI Club
+- (2021.06 ~ 2021.12) Mentor for Data人Sight, Hallym University's Big Data AI Club, specializing in Data Structures and Algorithms using Python
+- (2022.03 ~ 2022.07) Mentor for "Sangsaeng Learning Ddimdol" program in the Big Data Department of Hallym University
+- (2023.02 ~ 2023.03) Java Mentor for University Student Union
+- (2023.03 ~ 2023.12) President of "Tensor" team, the academic club of the Big Data Department at Hallym University, known as "C.AERANG"
+- (2023.03 ~ 2023.06) Python Mentor for the Department of Computer Science, Hallym University
 
-> ## Hackathon
->> - UI & Android Developer for the SW-centered University Joint Hackathon
->> - AI Developer for the SKKU AI x Bookathon event at Sungkyunkwan University
->> - Representative Team from Gangwon Province Participating in National SW-Centric Hackathon
+## Hackathon
+- UI & Android Developer for the SW-centered University Joint Hackathon
+- AI Developer for the SKKU AI x Bookathon event at Sungkyunkwan University
+- Representative Team from Gangwon Province Participating in National SW-Centric Hackathon
 
-> ## Projects
->> - (Apr. 2021 ~ Nov. 2021) IoT Port Access Management System, Ministry of Oceans and Fisheries, Korea / Android Development and Raspberry Pi Coding 
->> - (Apr. 2022 ~ Nov. 2022) Development of AI-Based Interactive Maritime Logistics Integrated Complaint Service, Ministry of Oceans and Fisheries, Korea / AI Development 
->> - (Mar. 2023 ~ June. 2023) Capstone Design, Hallym University, Korea 
->> - (Apr. 2023 ~ Dec. 2023) Development of AI-Based Maritime Logistics Analysis Program, Ministry of Oceans and Fisheries, Korea / Development of AI Model for Data Analysis, Classification, and Recommendation 
->> - (Apr. 2023 ~ Dec. 2023) Implementation of AI Security Technologies for Autonomous Vessels, Ministry of Oceans and Fisheries, Korea
->> - (Sep. 2023 ~ Feb. 2024) National Medical Ultrasound Research Project / Assistant Researcher
->> - (Feb. 2024 ~ Apr. 2024) Sewol Ferry Memory Project / Android Development
-> ## Startup Team
->> - (December. 2021 ~ Jul. 2023) Team Amatuer Development Agency
->> - (December. 2022 ~ Aug. 2023) Team Choice Development Team Leader
+## Projects
+- (Apr. 2021 ~ Nov. 2021) IoT Port Access Management System, Ministry of Oceans and Fisheries, Korea / Android Development and Raspberry Pi Coding 
+- (Apr. 2022 ~ Nov. 2022) Development of AI-Based Interactive Maritime Logistics Integrated Complaint Service, Ministry of Oceans and Fisheries, Korea / AI Development 
+- (Mar. 2023 ~ June. 2023) Capstone Design, Hallym University, Korea 
+- (Apr. 2023 ~ Dec. 2023) Development of AI-Based Maritime Logistics Analysis Program, Ministry of Oceans and Fisheries, Korea / Development of AI Model for Data Analysis, Classification, and Recommendation 
+- (Apr. 2023 ~ Dec. 2023) Implementation of AI Security Technologies for Autonomous Vessels, Ministry of Oceans and Fisheries, Korea
+- (Sep. 2023 ~ Feb. 2024) National Medical Ultrasound Research Project / Assistant Researcher
+- (Feb. 2024 ~ Apr. 2024) Sewol Ferry Memory Project / Android Development
+## Startup Team
+- (December. 2021 ~ Jul. 2023) Team Amatuer Development Agency
+- (December. 2022 ~ Aug. 2023) Team Choice Development Team Leader
 
-> ## Internship(Company)
->> - 2021.06 ~ 2022.02 Junisis R&D center Intern
->>>  - Used Matlab for Frequency analysis
->>>  - Learned Verilog 
->>>  - Design printed circuit board
+## Internship(Company)
+- 2021.06 ~ 2022.02 Junisis R&D center Intern
+  - Used Matlab for Frequency analysis
+  - Learned Verilog 
+  - Design printed circuit board
   
 > ## Internship(Graduate School)
 |date|content|department|
