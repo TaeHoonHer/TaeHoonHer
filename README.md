@@ -17,7 +17,7 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 |TOEFL|107|
 
 ## Career History
-- POSTECH Summer Exchange Program (2024.07)
+- POSTECH Summer school Program (2024.06 ~ 2024.07)
 - Master's student at Daegu Gyeongbuk Institute of Science and Technology(DGIST) (2024.02 ~ )
 - Hallym University Department of Big Data in the School of Software (2020.03 ~ 2024.02)
 - University of York Summer Internship (2023.07 ~ 2023.08) 
