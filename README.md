@@ -59,8 +59,8 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 ## Internship(Graduate School)
 |date|content|
 |------|-----|
-|Jan.2022. ~ May.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|
-|June.2023. ~ July.2023.|[Advanced ultrasound research laboratory](https://ultrasound.dgist.ac.kr/)|
+|Jan.2022. ~ May.2023.|[A.I. Accelerator Computing]|
+|June.2023. ~ July.2023.|[Advanced ultrasound research laboratory]|
 |Aug.2023. ~ Dec.2023.|Medical Ultrasound Image Processing Lab|
 
 ## Paper
