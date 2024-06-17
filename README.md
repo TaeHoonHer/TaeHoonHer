@@ -16,13 +16,6 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 |Toeic|985|
 |TOEFL|107|
 
-## Career History
-- POSTECH Summer school Program (2024.06 ~ 2024.07)
-- Master's student at Daegu Gyeongbuk Institute of Science and Technology(DGIST) (2024.02 ~ )
-- Hallym University Department of Big Data in the School of Software (2020.03 ~ 2024.02)
-- University of York Summer Internship (2023.07 ~ 2023.08) 
-- Gangseo Industrial High School majoring in U-ICT (2017.03 ~ 2020.02)
-
 # Graduate School(M.S.)
 ## Paper
 |Author|Paper Title|Conference|Venue|Presentation Method|
@@ -33,12 +26,12 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 
 # UnderGraduate
 ## Leadership & Groups
-- (2021.06 ~ 2021.12) President of Data人Sight, Hallym University's Big Data AI Club
-- (2021.06 ~ 2021.12) Mentor for Data人Sight, Hallym University's Big Data AI Club, specializing in Data Structures and Algorithms using Python
-- (2022.03 ~ 2022.07) Mentor for "Sangsaeng Learning Ddimdol" program in the Big Data Department of Hallym University
+- (2021.06 ~ 2021.12) President of Data人Sight, Big Data AI Club
+- (2021.06 ~ 2021.12) Mentor for Data人Sight, Big Data AI Club, specializing in Data Structures and Algorithms using Python
+- (2022.03 ~ 2022.07) Mentor for "Sangsaeng Learning Ddimdol" program in the Big Data Department
 - (2023.02 ~ 2023.03) Java Mentor for University Student Union
-- (2023.03 ~ 2023.12) President of "Tensor" team, the academic club of the Big Data Department at Hallym University, known as "C.AERANG"
-- (2023.03 ~ 2023.06) Python Mentor for the Department of Computer Science, Hallym University
+- (2023.03 ~ 2023.12) President of "Tensor" team, the academic club known as "C.AERANG"
+- (2023.03 ~ 2023.06) Python Mentor for the Department of Computer Science
 
 ## Hackathon
 - UI & Android Developer for the SW-centered University Joint Hackathon
@@ -48,7 +41,7 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 ## Projects
 - (Apr. 2021 ~ Nov. 2021) IoT Port Access Management System, Ministry of Oceans and Fisheries, Korea / Android Development and Raspberry Pi Coding 
 - (Apr. 2022 ~ Nov. 2022) Development of AI-Based Interactive Maritime Logistics Integrated Complaint Service, Ministry of Oceans and Fisheries, Korea / AI Development 
-- (Mar. 2023 ~ June. 2023) Capstone Design, Hallym University, Korea 
+- (Mar. 2023 ~ June. 2023) Capstone Design, Korea
 - (Apr. 2023 ~ Dec. 2023) Development of AI-Based Maritime Logistics Analysis Program, Ministry of Oceans and Fisheries, Korea / Development of AI Model for Data Analysis, Classification, and Recommendation 
 - (Apr. 2023 ~ Dec. 2023) Implementation of AI Security Technologies for Autonomous Vessels, Ministry of Oceans and Fisheries, Korea
 - (Sep. 2023 ~ Feb. 2024) National Medical Ultrasound Research Project / Assistant Researcher
@@ -64,11 +57,11 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
   - Design printed circuit board
   
 ## Internship(Graduate School)
-|date|content|department|
-|------|-----|--------|
-|Jan.2022. ~ May.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|Hallym. Univ.|
-|June.2023. ~ July.2023.|[Advanced ultrasound research laboratory](https://ultrasound.dgist.ac.kr/)|DGIST|
-|Aug.2023. ~ Dec.2023.|Medical Ultrasound Image Processing Lab|Hallym. Univ.|
+|date|content|
+|------|-----|
+|Jan.2022. ~ May.2023.|[A.I. Accelerator Computing](https://sites.google.com/site/embeddedsochallymuniv/project)|
+|June.2023. ~ July.2023.|[Advanced ultrasound research laboratory](https://ultrasound.dgist.ac.kr/)|
+|Aug.2023. ~ Dec.2023.|Medical Ultrasound Image Processing Lab|
 
 ## Paper
 |Author|Paper Title|Conference|Venue|Presentation Method|
@@ -79,12 +72,12 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 |Tae-Hoon Her*, Na-Hyun Kim, So-Yeon Kim, Ju-Hyeong Kim|Adversarial Attacks and Detection Methods for Autonomous ship|ACK2023|Busan, Korea (Nov.2023)|Oral|
 
 ## Awards and Honors
-  - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2021)
-  - Hallym University Startup Idea Competition(1st), Hallym University, Korea (Nov. 2022)
-  - President's Award(1st) for Software Capstone Design at Hallym University (June. 2023)
+  - Startup Idea Competition(1st), Korea (Nov. 2021)
+  - University Startup Idea Competition(1st), Korea (Nov. 2022)
+  - President's Award(1st) for Software Capstone Design (June. 2023)
   - Korea Information Processing Society 2023 Maritime Logistics Track Outstanding Paper Award Winner (Oct. 2023)
     - https://www.smu.ac.kr/_attach/file/2024/03//iaPJuqLbndPAeJNQdCQQ.pdf  
-  - Hallym University 2023 SW Week GitHub Resume Competition Second Prize (Oct. 2023)
+  - 2023 SW Week GitHub Resume Competition Second Prize (Oct. 2023)
 
 ## Programs Abroad
 - University of York Summer Internship (2023.07 ~ 2023.08)
@@ -114,15 +107,6 @@ Made Simple Mips Processor using Verilog
 - Communication (Slack)
 - Team (Purposeful Organization)
 
-## Club
-- The academic club of the Big Data Department at Hallym University, known as "NoName" - 2020
-- "Tensor" team, the academic club of the Big Data Department at Hallym University, known as "CERANG" - 2021
-  - Studying the Basics of Deep Learning such as FeedForward and BackPropagation
-- "Latte" team, the academic club of the Big Data Department at Hallym University, known as "CERANG" - 2022
-  - Studying Android App Development with Kotlin
-- "Tensor" team, the academic club of the Big Data Department at Hallym University, known as "CERANG" - 2023
-  - Team Leader
-
 ## Helpful Programs
 > Udemy
 > - Android App Development Bootcamp
@@ -131,7 +115,7 @@ Made Simple Mips Processor using Verilog
 
 > On-campus
 > - Simple Mips Processor by Verilog
-> - Vision Fair IT Development Position at Hallym University [Douzone]
+> - Vision Fair IT Development Position [Douzone]
 > - Developing VR/AR Apps based on Cloud AI Services
 > - Guest Lecture on Career Opportunities as a Global Software Expert
 > - Trends in Embedded AI for Products
