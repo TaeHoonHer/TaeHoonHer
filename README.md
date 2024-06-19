@@ -12,9 +12,6 @@ Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence prog
 |Blog|https://th-steven.tistory.com/|
 |github|https://github.com/TaeHoonHer|
 |Instagram|hertaehoon|
-|LinkedIn|https://www.linkedin.com/in/taehoon-her-1a094b2b5/|
-|Toeic|985|
-|TOEFL|107|
 
 # Graduate School(M.S.)
 ## Paper
