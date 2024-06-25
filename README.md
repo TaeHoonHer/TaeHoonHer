@@ -1,6 +1,6 @@
 # HerTaeHoon
 
-Hello, I am Her Tae-hoon, a master's student in the Artificial Intelligence program at the Daegu Gyeongbuk Institute of Science and Technology (DGIST)
+Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intelligence at Daegu Gyeongbuk Institute of Science and Technology. I am conducting research related to medical artificial intelligence and signal processing
 
 ## CONTACT
 <img src= "https://github.com/TaeHoonHer/TaeHoonHer/assets/107015573/62cc52d4-0f5a-4129-b7a0-e5872e8ec2c3" width="235" height="255">
