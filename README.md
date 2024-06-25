@@ -70,11 +70,11 @@ Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intell
 
 ## Awards and Honors
   - Startup Idea Competition(1st), Korea (Nov. 2021)
-  - University Startup Idea Competition(1st), Korea (Nov. 2022)
+  - Startup Idea Competition(1st), Korea (Nov. 2022)
   - President's Award(1st) for Software Capstone Design (June. 2023)
   - Korea Information Processing Society 2023 Maritime Logistics Track Outstanding Paper Award Winner (Oct. 2023)
     - https://www.smu.ac.kr/_attach/file/2024/03//iaPJuqLbndPAeJNQdCQQ.pdf  
-  - 2023 SW Week GitHub Resume Competition Second Prize (Oct. 2023)
+  - 2023 SW Week GitHub Resume Competition(2nd), Korea (Oct. 2023)
 
 ## Programs Abroad
 - University of York Summer Internship (2023.07 ~ 2023.08)
