@@ -36,13 +36,16 @@ Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intell
 - Representative Team from Gangwon Province Participating in National SW-Centric Hackathon
 
 ## Projects
+### Ministry of Oceans and Fisheries
 - (Apr. 2021 ~ Nov. 2021) IoT Port Access Management System, Ministry of Oceans and Fisheries, Korea / Android Development and Raspberry Pi Coding 
 - (Apr. 2022 ~ Nov. 2022) Development of AI-Based Interactive Maritime Logistics Integrated Complaint Service, Ministry of Oceans and Fisheries, Korea / AI Development 
-- (Mar. 2023 ~ June. 2023) Capstone Design, Korea
 - (Apr. 2023 ~ Dec. 2023) Development of AI-Based Maritime Logistics Analysis Program, Ministry of Oceans and Fisheries, Korea / Development of AI Model for Data Analysis, Classification, and Recommendation 
 - (Apr. 2023 ~ Dec. 2023) Implementation of AI Security Technologies for Autonomous Vessels, Ministry of Oceans and Fisheries, Korea
+### University
+- (Mar. 2023 ~ June. 2023) Capstone Design, Korea
 - (Sep. 2023 ~ Feb. 2024) National Medical Ultrasound Research Project / Assistant Researcher
 - (Feb. 2024 ~ Apr. 2024) Sewol Ferry Memory Project / Android Development
+  
 ## Startup Team
 - (December. 2021 ~ Jul. 2023) Team Amatuer Development Agency
 - (December. 2022 ~ Aug. 2023) Team Choice Development Team Leader
