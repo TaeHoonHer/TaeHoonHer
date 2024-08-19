@@ -61,7 +61,7 @@ Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intell
 |------|-----|
 |Jan.2022. ~ May.2023.|A.I. Accelerator Computing|
 |June.2023. ~ July.2023.|Advanced ultrasound research laboratory|
-|Aug.2023. ~ Dec.2023.|Medical Ultrasound Image Processing Lab|
+|Aug.2023. ~ Feb.2024.|Medical Ultrasound Image Processing Lab|
 
 ## Paper
 |Author|Paper Title|Conference|Venue|Presentation Method|
