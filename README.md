@@ -14,7 +14,7 @@ Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intell
 |Instagram|hertaehoon|
 
 # Graduate School(M.S.)
-## Paper
+## Conference
 |Author|Paper Title|Conference|Venue|Presentation Method|
 |---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|
 |TaeHoon Her*, Sangheon Lee, Jaesok Yu|시간 영역에서의 Demon 전처리 기반 수동 소나 신호 분리 딥러닝 모델 개발|THE ACOUSTICAL SOCIETY OF KOREA|JeJu, Korea (May.2024)|Oral|
