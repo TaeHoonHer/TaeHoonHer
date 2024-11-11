@@ -19,6 +19,13 @@ Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intell
 |---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|
 |TaeHoon Her*, Sangheon Lee, Jaesok Yu|시간 영역에서의 Demon 전처리 기반 수동 소나 신호 분리 딥러닝 모델 개발|THE ACOUSTICAL SOCIETY OF KOREA|JeJu, Korea (May.2024)|Oral|
 |TaeHoon Her*, Sangheon Lee, Jaesok Yu|Highly Accurate Blind Source Separation in Passive Sonar Using Demon Preprocessing on Time Domain|IEEE UFFC-JS|Taipei, Taiwan (Sep. 2024)|Oral|
+|TaeHoon Her*, Sangheon Lee, Jaesok Yu|Tonal Signal-Based Blind Source Separation in Underwater Acoustic Environments Using Cycle Cv-Tasnet|THE ACOUSTICAL SOCIETY OF KOREA|Busan, Korea (Oct.2024)|Oral|
+|TaeHoon Her*, Jaesok Yu|Cycle Cv-Tasnet: An Interpretable Model for Passive Sonar Signal Separation Using Self-Attention and Cycle Consistency|UnderSea Defense Technology|Oslo, Norway (Mar. 2025)|Oral|
+
+## Award
+|대회 명|참가자|주최|주관|수상명|수상 년 월
+|---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|-----------------------------|
+|의료인공지능 아이디어 경진대회|박도근, 소광섭, 허태훈, 정용찬|보건복지부|한국보건산업진흥원|대한의료정보학회장상|2024.12.5|
 
 
 # UnderGraduate
