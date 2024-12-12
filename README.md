@@ -33,6 +33,12 @@ Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intell
 |----------------------------------------------|------------------------------------------------|----------------------------------------------------|
 |DPRNN: A deep learning framework for time-domain separation of passive sonar signal preprocessed by demon analysis|유재석, 이상헌, 허태훈|2024.07.31|
 
+## Project
+### University
+- (Aug. 2024 ~ Dec. 2024) A Study on Vehicle Lateral Warning System Using Auditory and Haptic Feedback, DGIST(HCI)
+- (Aug. 2024 ~ Dec. 2024) Pet Owl Robot, DGIST(HRI)
+
+
 ## Teaching Assistant
 - Introduction to Data Science
 - Digital Logic Design
