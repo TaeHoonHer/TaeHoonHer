@@ -21,7 +21,7 @@ Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intell
 |TaeHoon Her*, Sangheon Lee, Jaesok Yu|Highly Accurate Blind Source Separation in Passive Sonar Using Demon Preprocessing on Time Domain|IEEE UFFC-JS|Taipei, Taiwan (Sep. 2024)|Oral|
 |TaeHoon Her*, Jaesok Yu|Tonal Signal-Based Blind Source Separation in Underwater Acoustic Environments Using Cycle Cv-Tasnet|THE ACOUSTICAL SOCIETY OF KOREA|Busan, Korea (Oct.2024)|Oral|
 |TaeHoon Her*, Jaesok Yu|Cycle Cv-Tasnet: An Interpretable Model for Passive Sonar Signal Separation Using Self-Attention and Cycle Consistency|UnderSea Defense Technology|Oslo, Norway (Mar. 2025)|Oral|
-|Taehun Kim*, Dokyun Lee, TaeHoon Her, Kanghyeon Ko|The Impact of Haptic and Auditory Feedback on Drivers' Experience During Left and Right Vehicle Detection While Driving|Hongcheon, Korea(Feb. 2025)|Oral|
+|Taehun Kim*, Dokyun Lee, TaeHoon Her, Kanghyeon Ko|The Impact of Haptic and Auditory Feedback on Drivers' Experience During Left and Right Vehicle Detection While Driving|HCI Korea|Hongcheon, Korea(Feb. 2025)|
 
 ## Award
 |대회 명|참가자|주최|주관|수상명|수상 년 월
