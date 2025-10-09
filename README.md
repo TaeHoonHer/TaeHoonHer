@@ -49,8 +49,9 @@ Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intell
 
 
 ## Teaching Assistant
-- Introduction to Data Science
-- Digital Logic Design
+- Introduction to Data Science * 2
+- Digital Logic Design * 2
+- AI Track for the Gifted at a Science High School
 
 # UnderGraduate
 ## Leadership & Groups
