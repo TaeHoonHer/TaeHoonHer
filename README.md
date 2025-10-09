@@ -13,7 +13,7 @@ Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intell
 |github|https://github.com/TaeHoonHer|
 |Instagram|hertaehoon|
 
-# Graduate School(M.S.)
+# Graduate School
 ## Conference
 |Author|Paper Title|Conference|Venue|Presentation Method|
 |---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|
