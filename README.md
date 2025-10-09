@@ -37,6 +37,11 @@ Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intell
 |----------------------------------------------|------------------------------------------------|----------------------------------------------------|
 |DPRNN: A deep learning framework for time-domain separation of passive sonar signal preprocessed by demon analysis|유재석, 이상헌, 허태훈|2024.07.31|
 
+## Program
+|프로그램명|발명자|등록일|
+|----------------------------------------------|------------------------------------------------|----------------------------------------------------|
+|Demon preprocessing based Multi-Decoder&Dual-Path RNN Sonar Signal Separation Model|유재석, 허태훈, 임현희|2025|
+
 ## Project
 ### University
 - (Aug. 2024 ~ Dec. 2024) A Study on Vehicle Lateral Warning System Using Auditory and Haptic Feedback, DGIST(HCI)
