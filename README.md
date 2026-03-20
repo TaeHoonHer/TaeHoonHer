@@ -7,7 +7,6 @@ Currently a Ph.D. candidate at DGIST in the field of Artificial Intelligence. My
 |------|-----|
 |DOB|Dec 18, 2001|
 |E-mail|taehoon.her@dgist.ac.kr|
-|phone|010-8607-6438|
 |Blog|https://th-steven.tistory.com/|
 |github|https://github.com/TaeHoonHer|
 |LinkedIn|www.linkedin.com/in/hertaehoon|
