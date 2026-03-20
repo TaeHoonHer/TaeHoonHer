@@ -42,7 +42,7 @@ Currently a Ph.D. candidate at DGIST in the field of Artificial Intelligence. My
 |Demon preprocessing based Multi-Decoder&Dual-Path RNN Sonar Signal Separation Model|유재석, 허태훈, 임현희|2025|
 
 ## Project
-### University
+### In-class
 - (Aug. 2024 ~ Dec. 2024) A Study on Vehicle Lateral Warning System Using Auditory and Haptic Feedback, DGIST(HCI)
 - (Aug. 2024 ~ Dec. 2024) Pet Owl Robot, DGIST(HRI)
 
