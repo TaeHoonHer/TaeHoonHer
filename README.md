@@ -1,6 +1,6 @@
 # HerTaeHoon
 
-Hello, I'm Taehoon Her currently pursuing a master's degree in Artificial Intelligence at Daegu Gyeongbuk Institute of Science and Technology. I am conducting research related to medical artificial intelligence and signal processing
+Hello, I'm Taehoon Her currently pursuing a Ph.D. degree in Artificial Intelligence at Daegu Gyeongbuk Institute of Science and Technology. I am conducting research related to medical artificial intelligence and signal processing
 
 ## CONTACT
 |Name|HerTaeHoon|
