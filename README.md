@@ -48,8 +48,8 @@ Hello, I'm Taehoon Her currently pursuing a Ph.D. degree in Artificial Intellige
 
 ## Teaching Assistant
 - 2024 Introduction to Data Science
-- 2025 Introduction to Data Science
 - 2024 Digital Logic Design
+- 2025 Introduction to Data Science
 - 2025 Digital Logic Design
 - 2025 AI Track for the Gifted at a Science High School
 - 2026 AI Track for the Gifted at a Science High School 
