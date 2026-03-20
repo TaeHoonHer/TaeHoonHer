@@ -1,6 +1,6 @@
 # HerTaeHoon
 
-Hello, I'm Taehoon Her currently pursuing a Ph.D. degree in Artificial Intelligence at Daegu Gyeongbuk Institute of Science and Technology. I am conducting research related to medical artificial intelligence and signal processing
+Currently a Ph.D. candidate at DGIST in the field of Artificial Intelligence. My primary research interests lie in AI applications for Defense and Subsurface Maritime Surveillance
 
 ## CONTACT
 |Name|HerTaeHoon|
