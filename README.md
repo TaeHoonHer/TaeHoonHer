@@ -9,6 +9,7 @@ Currently a Ph.D. candidate at DGIST in the field of Artificial Intelligence. My
 |phone|010-8607-6438|
 |Blog|https://th-steven.tistory.com/|
 |github|https://github.com/TaeHoonHer|
+|LinkedIn|www.linkedin.com/in/hertaehoon|
 |Instagram|hertaehoon|
 
 # Graduate School
