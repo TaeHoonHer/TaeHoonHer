@@ -19,7 +19,8 @@ Currently a Ph.D. candidate at DGIST in the field of Artificial Intelligence. My
 |Taehun Kim*, Dokyun Lee, TaeHoon Her, Kanghyeon Ko|The Impact of Haptic and Auditory Feedback on Drivers' Experience During Left and Right Vehicle Detection While Driving|HCI Korea|Hongcheon, Korea(Feb. 2025)|Poster|
 |TaeHoon Her*, Jaesok Yu|Phase-preserving gray box model for robust sonar signal separation|ASA|New Orleans, Louisiana(May. 2025)|Oral|
 |TaeHoon Her*, Jaesok Yu|Enhancing Signal Separation Performance in Passive Sonar using Multi-Task Learning|Korea Institude of Military Science & Technology|Jeju, Korea(June. 2025)|Oral|
-
+|TaeHoon Her*, Sangheon Lee, Hyunhee Yim, Jongkwon Choi, Chonghyun Lee, Keunhwa Lee, Jaesok Yu|Class conditioned Target Source Extraction Framework for Multi-Source Underwater Ship Noise Separation|Jeju, Korea(June. 2026)|Oral|
+|TaeHoon Her*, Sangheon Lee, Jongkwon Choi, Chonghyun Lee, Keunhwa Lee, Jaesok Yu|Class-conditioned Target Source Extraction with Acoustic Signature Prototypes for Multi-Source Underwater Ship Noise Separation|Raleigh, North Carolina, USA(Oct. 2026)|Oral|
 
 
 ## Award
