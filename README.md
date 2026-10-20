@@ -25,6 +25,8 @@ Currently a Ph.D. candidate at DGIST in the field of Artificial Intelligence. My
 |Sangheon Lee*, Nizar Guezzi, Hyojin Seong, Sangwoo Nam, Taehoon Her, Myeongchan Kim, Youngho Seo, Jaesok Yu|Coded Excitation-Assisted Null Subtraction Imaging for High-Resolution Contrast-Free Deep Vascular Power Doppler|The 2026 IEEE International Ultrasonics Symposium|Raleigh, North Carolina, USA(Oct. 2026)|Oral|
 |TaeHoon Her*, Seonghyeon Cho, Myeongchan Kim, Haram Song, Youngho Seo, Suyoung Choi, Sangheon Lee, Hyojin Seong, Dongku Jung, Sangwoo Nam, Jaesok Yu|Input Concatenation versus Blockwise FiLM for Class-Conditioned Ship-Noise Extraction|Conference on Information and Control Systems|Gyeongju, Korea (Nov. 2026)|Oral|
 
+## Project
+
 
 ## Award
 |대회 명|참가자|주최|주관|수상명|수상 년 월
@@ -40,11 +42,6 @@ Currently a Ph.D. candidate at DGIST in the field of Artificial Intelligence. My
 |프로그램명|발명자|등록일|
 |----------------------------------------------|------------------------------------------------|----------------------------------------------------|
 |Demon preprocessing based Multi-Decoder&Dual-Path RNN Sonar Signal Separation Model|유재석, 허태훈, 임현희|2025|
-
-## Project
-### In-class
-- (Aug. 2024 ~ Dec. 2024) A Study on Vehicle Lateral Warning System Using Auditory and Haptic Feedback, DGIST(HCI)
-- (Aug. 2024 ~ Dec. 2024) Pet Owl Robot, DGIST(HRI)
 
 
 ## Teaching Assistant
