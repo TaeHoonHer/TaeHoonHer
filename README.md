@@ -25,9 +25,6 @@ Currently a Ph.D. candidate at DGIST in the field of Artificial Intelligence. My
 |Sangheon Lee*, Nizar Guezzi, Hyojin Seong, Sangwoo Nam, Taehoon Her, Myeongchan Kim, Youngho Seo, Jaesok Yu|Coded Excitation-Assisted Null Subtraction Imaging for High-Resolution Contrast-Free Deep Vascular Power Doppler|The 2026 IEEE International Ultrasonics Symposium|Raleigh, North Carolina, USA(Oct. 2026)|Oral|
 |TaeHoon Her*, Seonghyeon Cho, Myeongchan Kim, Haram Song, Youngho Seo, Suyoung Choi, Sangheon Lee, Hyojin Seong, Dongku Jung, Sangwoo Nam, Jaesok Yu|Input Concatenation versus Blockwise FiLM for Class-Conditioned Ship-Noise Extraction|Conference on Information and Control Systems|Gyeongju, Korea (Nov. 2026)|Oral|
 
-## Project
-
-
 ## Award
 |대회 명|참가자|주최|주관|수상명|수상 년 월
 |---------------------------------------------|------------------------------------------------------|--------------------------------------|---------------------------------------|-----------------------------|-----------------------------|
