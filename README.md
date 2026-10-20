@@ -21,6 +21,7 @@ Currently a Ph.D. candidate at DGIST in the field of Artificial Intelligence. My
 |TaeHoon Her*, Jaesok Yu|Enhancing Signal Separation Performance in Passive Sonar using Multi-Task Learning|Korea Institude of Military Science & Technology|Jeju, Korea(June. 2025)|Oral|
 |TaeHoon Her*, Sangheon Lee, Hyunhee Yim, Jongkwon Choi, Chonghyun Lee, Keunhwa Lee, Jaesok Yu|Class conditioned Target Source Extraction Framework for Multi-Source Underwater Ship Noise Separation|Korea Institude of Military Science & Technology|Jeju, Korea(June. 2026)|Oral|
 |TaeHoon Her*, Sangheon Lee, Jongkwon Choi, Chonghyun Lee, Keunhwa Lee, Jaesok Yu|Class-conditioned Target Source Extraction with Acoustic Signature Prototypes for Multi-Source Underwater Ship Noise Separation|The 2026 IEEE International Ultrasonics Symposium|Raleigh, North Carolina, USA(Oct. 2026)|Oral|
+|Nizar Guezzi, Sangwoo Nam, Hyojin Seong, Taehoon Her, Jaesok Yu|Phase-Stabilized Iterative Coherence Factor (PS-iCF) Beamforming for High Contrast Photoacoustic Imaging|The 2026 IEEE International Ultrasonics Symposium|Raleigh, North Carolina, USA(Oct. 2026)|Poster|
 |TaeHoon Her*, Seonghyeon Cho, Myeongchan Kim, Haram Song, Youngho Seo, Suyoung Choi, Sangheon Lee, Hyojin Seong, Dongku Jung, Sangwoo Nam, Jaesok Yu|Input Concatenation versus Blockwise FiLM for Class-Conditioned Ship-Noise Extraction|Conference on Information and Control Systems|Gyeongju, Korea (Nov. 2026)|Oral|
 
 
